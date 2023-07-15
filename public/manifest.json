@@ -1,0 +1,10 @@
+{
+  "short_name": "Keeper",
+  "name": "Keeper",
+  "default_locale": "en",
+  "description": "This website is like google keeper but focused on privacy and add free.",
+  "permissions": [
+      "webNavigation"
+  ],
+  "version": "0.1"
+}

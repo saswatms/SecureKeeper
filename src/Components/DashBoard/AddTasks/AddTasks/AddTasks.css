@@ -1,0 +1,41 @@
+.addTasks {
+    border: 1px solid rgb(250, 247, 247);
+    box-shadow: 1px 4px 5px 0 rgb(231, 222, 222);
+    padding: 8px;
+    position: relative;
+    height: auto;
+    margin: 20px auto 0px auto;
+    /* border: 2px solid black; */
+    text-align: center;
+    width: 40%;
+    background: white;
+    border-radius: 5px;
+}
+.addTasks button {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 30px;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    bottom: -10px;
+    right: -20px;
+
+    border-radius: 50px;
+}
+.addInput {
+    font-size: 1rem;
+    margin: 10px;
+    border: none;
+    outline: none;
+    width: 90%;
+}
+
+.resize {
+    height: auto;
+    resize: none;
+}
+.addTasksOnAfterClick {
+}
